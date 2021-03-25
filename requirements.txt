@@ -44,7 +44,7 @@ python-dateutil==2.8.0
 pytz==2018.9
 pyvi==0.0.9.1
 PyWavelets==1.0.1
-PyYAML==3.13
+PyYAML==5.4
 pyzmq==17.1.2
 requests==2.21.0
 scikit-image==0.14.2
